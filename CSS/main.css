@@ -2,3 +2,11 @@
 @import"./header.css";
 @import"./menu.css";
 @import"./slider.css";
+@import"./city.css";
+@font-face {
+    font-family: IRANYEKAN;
+    src: url(../fonts/IRANYekan.eot);
+    src: url(../fonts/IRANYekan.ttf);
+    src: url(../fonts/IRANYekan.woff);
+    src: url(../fonts/IRANYekan.woff2);
+}

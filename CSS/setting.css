@@ -1,8 +1,17 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin:0;
+    padding:0;
     box-sizing: border-box;
+    
+}
+body{
+    font-family: IRANYEKAN;
+
 }
 div.wrapper{
     width: 100%;
+}
+div.banner>img{
+    width:100%;
+    height: 60px;
 }
